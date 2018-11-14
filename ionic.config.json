@@ -1,0 +1,7 @@
+{
+  "name": "Forms",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
